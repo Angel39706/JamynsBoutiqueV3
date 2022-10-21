@@ -1,0 +1,28 @@
+{
+    "requestInfo": [
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_8F1ADAD874E9-1_1024x1024@2x.jpg?v=1630297555",
+        "id": 1,
+        "name": "New Arrivals"
+        "DiscountedPrice" : "$20. 00"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_7974_1024x1024@2x.jpg?v=1627620373",
+        "id": 2,
+        "name": "Accesories"
+        "DiscountedPrice" : "10. 00"
+      },
+      {
+        "imageURL": "https://jasmynsboutique.com/products/shes-a-vibe-sandals",
+        "id": 3,
+        "name": "Shoes"
+        "DiscountedPrice" : "$15. 00"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_BAB33CEBB669-1_1024x1024@2x.jpg?v=1627596612",
+        "id": 4,
+        "name": "On Sale"
+        "DiscountedPrice" : "$10. 00"
+      }
+    ]
+  }

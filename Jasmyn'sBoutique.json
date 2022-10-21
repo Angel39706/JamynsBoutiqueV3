@@ -1,0 +1,60 @@
+{
+    "request": [
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_57FC52D2D5A3-1_110x110@2x.jpg?v=1632798811",
+        "price": 23.99,
+        "description": " Material: 100% Polyester. Non Stretch/See Through. Adjustable Buttons and Pockets",
+        "id": 1,
+        "name": "Yasmyn Flannel Dress"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_7AD89E695EA9-1_1024x1024@2x.jpg?v=1641774126",
+        "price": 22.00,
+        "description": " Material: 95% Polyester - 5% Spandex. Ruched detailing on sides.  Stretchy, Non See Through",
+        "id": 2,
+        "name": "Be Mine Ruched Midi Dress"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_84A40486A926-12_110x110@2x.jpg?v=1632796886",
+        "price": 27.99,
+        "description": "Material: 95% Acrylic - 2% Spandex Polyester - 3% Nylon. Stretchy, Non See Through",
+        "id": 3,
+        "name": "Rayleen (Midi Dress)"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_4242768CA8ED-1_110x110@2x.jpg?v=1632796035",
+        "price": 55.99,
+        "description": "Material: 50% Viscose - 28% Polyester - 22% Nylon. Stretchy, Non See Through",
+        "id": 4,
+        "name": "She's So Royal (2 Piece Set)"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_8F1ADAD874E9-1_110x110@2x.jpg?v=1630297555",
+        "price": 37.00,
+        "description": "Material: 90% Polyester - 1% Spandex. Floral Design",
+        "id": 5,
+        "name": "Aladin 2 Piece Set"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_0500_110x110@2x.jpg?v=1629951097",
+        "price": 15.00,
+        "description": "Material: 97% Polyester - 3% Spandex. Non Stretch/See Through",
+        "id": 6,
+        "name": "Susana Crop Top"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_A26878F224F8-1_110x110@2x.jpg?v=1641776898",
+        "price": 41.00,
+        "description": "Material: 100% Cotton - 100% Polyester. Non Stretch",
+        "id": 7,
+        "name": "Cozy Dates Denim Jacket"
+      },
+      {
+        "imageURL": "https://cdn.shopify.com/s/files/1/0584/1747/9869/products/IMG_F7F1B388B8F4-1_110x110@2x.jpg?v=1627163873",
+        "price": 30.00,
+        "description": "Available in Brown Snake Print. Squared Toes",
+        "id": 8,
+        "name": "She's A Vibe Sandals"
+      }
+    ]
+  }
